@@ -16,5 +16,23 @@
     "thumbnail": "otra imagen más",
     "code": "ghi789",
     "stock": 8
+  },
+  {
+    "id": 4,
+    "title": "memoria ram",
+    "description": "top memory",
+    "price": 25,
+    "thumbnail": "nueva imagen",
+    "code": "jkl 012",
+    "stock": 3
+  },
+  {
+    "id": 5,
+    "title": "estabilizador celular",
+    "description": "smooth",
+    "price": 75,
+    "thumbnail": "otra imagen nueva",
+    "code": "mno345",
+    "stock": 1
   }
 ]

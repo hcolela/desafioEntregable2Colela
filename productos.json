@@ -34,5 +34,14 @@
     "thumbnail": "otra imagen nueva",
     "code": "mno345",
     "stock": 1
+  },
+  {
+    "id": 6,
+    "title": "camera",
+    "description": "free bitrate",
+    "price": 210,
+    "thumbnail": "otra vez sin imagen",
+    "code": "pqr678",
+    "stock": 11
   }
 ]
